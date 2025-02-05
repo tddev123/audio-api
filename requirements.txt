@@ -1,4 +1,4 @@
-fastapi>=0.68.0
-uvicorn>=0.15.0
+fastapi
+uvicorn
 python-multipart
-pytube>=12.1.0
+yt-dlp
